@@ -1,0 +1,17 @@
+.cajanavbar{
+  display: flex;
+  background:blue;
+  
+}
+
+
+.navbar{
+  display:flex;
+  list-style-type: none;
+  text-decoration-color: white;
+}
+
+.navbar li{
+ color: white;
+ padding: 2px;
+}
